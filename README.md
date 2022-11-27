@@ -22,3 +22,5 @@ Data structures that will be implimented and form a library:
 * Hash map
 
 * String
+
+* typeof function
