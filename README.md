@@ -1,4 +1,4 @@
-# DataStructures
+# Data Structures
 Data stuctures implimented in C
 
 Data structures that will be implimented and form a library:
